@@ -1,2 +1,7 @@
 # hellow-world
-this is my sample repository
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+printf("hellow world");
+}
